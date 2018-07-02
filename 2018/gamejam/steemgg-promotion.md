@@ -30,6 +30,7 @@
 * 不止是成品才能盈利
 * Game Jam 的优秀 HTML5 作品同样可以得到玩家的认可和赞同
 * 得到玩家的点赞就能盈利
+* 有了资金就能静下心来，将Game Jam 作品打磨为成品
 
 <img src="/Volumes/Mac/repo/steemgg/steemgg-ciga/2018/gamejam/wechat-steemgg-ciga-group.jpeg" style="zoom:20%"/>
 
